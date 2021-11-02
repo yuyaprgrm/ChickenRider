@@ -1,0 +1,17 @@
+{
+    "name": "famima65536/chicken-rider",
+    "type": "project",
+    "require-dev": {
+        "phpstan/phpstan": "1.0.x-dev",
+		"pocketmine/pocketmine-mp": "^4.0.0-BETA8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "famima65536",
+            "email": "famima65536@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
